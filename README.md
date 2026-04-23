@@ -76,7 +76,8 @@ This project is a relational database system designed to simulate a basic bankin
 
 📷 Screenshots
 
-![
+![users](check.png)
+![transaction of money](trans.png)
 
 ---
 
