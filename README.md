@@ -90,5 +90,4 @@ This project is a relational database system designed to simulate a basic bankin
 ---
 
 👨‍💻 Author
-
-Your Name-KHUSHI JAISWAL
+KHUSHI JAISWAL
